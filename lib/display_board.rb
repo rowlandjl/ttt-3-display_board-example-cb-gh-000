@@ -6,4 +6,9 @@ def display_board
   puts "   |   |   "
 end
 
+def display_board
+  puts "   |   |   \n"
+
+end
+
 display_board

@@ -7,8 +7,7 @@ def display_board
 end
 
 def display_board
-  puts "   |   |   \n"
-
+  puts "   |   |   \n-----------\n   |   |   \n-----------\   |   |   "
 end
 
 display_board
